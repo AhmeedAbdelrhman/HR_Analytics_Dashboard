@@ -1,5 +1,7 @@
 # HR Analytics Dashboard | Power BI
 
+![HR Analytics Dashboard](HR_Analytics_Dashboard.png)
+
 Dashboard to analyze employee attrition and understand why employees leave.
 
 ## 📊 KPIs
